@@ -1,0 +1,5 @@
+com/noob/liveasy/controller/LoadController.class
+com/noob/liveasy/ServletInitializer.class
+com/noob/liveasy/model/Load.class
+com/noob/liveasy/repository/LoadRepository.class
+com/noob/liveasy/LiveasyApplication.class
